@@ -33,7 +33,8 @@ Data storytelling is not just about charts and numbers — it is about connectin
 | 7 | Know Your Audience | Executives, Operational Teams, Data Specialists |
 | 8 | Your Data Storytelling Framework | Collect → Reflect → Decide → Tell the Story |
 | 9 | The Formula | Data + Insight + Action + Audience |
-| 10 | Final Message & Contact | Facts Tell, Stories Sell |
+| 10 | Final Message | Facts Tell, Stories Sell |
+| 11 | Contact | Hayam Wahdan — Contact Details |
 
 ---
 
